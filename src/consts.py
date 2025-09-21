@@ -1,0 +1,1 @@
+POLYGONURL1 = "https://api.polygon.io/v2/aggs/ticker/X:"
